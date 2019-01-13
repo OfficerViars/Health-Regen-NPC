@@ -39,6 +39,14 @@ https://discord.gg/Wqd2BDX
 
 🍊Tardpipl🍊#5277 - discord
 
+# Officer Health Regen 1.0 Update
+
+Released
+
+# Officer Health Regen 1.1 Update
+
+Fixed Config error
+
 
 
 
