@@ -1,8 +1,6 @@
 AddCSLuaFile("cl_init.lua")
 AddCSLuaFile("shared.lua")
-AddCSLuaFile("health_regen_config.lua")
 include("shared.lua")
-include("health_regen_config.lua")
 resource.AddSingleFile( "resource/fonts/Belgrad.ttf" )
 if CLIENT then return end
 util.AddNetworkString( "GiveHealthRegen" )

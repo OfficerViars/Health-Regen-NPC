@@ -1,5 +1,4 @@
 include("shared.lua")
-include("health_regen_config.lua")
 
 
 surface.CreateFont( "maintext", {
