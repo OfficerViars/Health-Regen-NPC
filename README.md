@@ -21,7 +21,6 @@ This is not just an original menu i have designed it to look professional on a s
 
 # Installation
 
-Workshop https://steamcommunity.com/sharedfiles/filedetails/?id=1477157924
 Go to https://github.com/OfficerViars/Health-Regen-NPC
 Find the button clone or download click it.
 Click open in desktop or download zip.
